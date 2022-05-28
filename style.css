@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+header {
+    min-height: 10vh;
+    background-color: rgb(117, 214, 182);
+}
+
+main {
+    padding: 2vh;
+    min-height: 75vh;
+    background-color: rgb(185, 185, 185);
+}
+
+footer {
+    min-height: 15vh;
+    background-color: rgb(117, 214, 182);
+}
+.logo-text {
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    height: 8vh;
+}
+
+.card {
+    margin: 1vh;
+    padding: 14px;
+    border-radius: 24px;
+    background-color: white;
+}
+
+.card-img {
+    height: 30vh;
+}
+
+.card-text {
+    padding-left: 3vw;
+}
+
+.card-link {
+    color: rgb(48, 121, 96);
+}
+.row {
+    display: flex;
+}
+.col {
+    padding: 2vw;
+}
+
+.gallery {
+    margin-left: 10vw;
+    width: 80 vw;
+}

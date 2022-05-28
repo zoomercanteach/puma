@@ -1,0 +1,10 @@
+.b-photo {
+    width: 30vw;
+    border-radius: 50%;
+    margin-left: 35vw;
+    background-color: rgb(255, 0, 0);
+}
+.batmen{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 47, 255);
+}
